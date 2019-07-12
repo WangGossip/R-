@@ -1,0 +1,96 @@
+{
+  "version": "1",
+  "title": "R数据探索与预处理",
+  "author": "admin",
+  "description": "数据质量分析实验 数据特征分析实验 统计特征函数实验 统计作图函数实验 数据清洗实验 数据集成实验 数据变换实验 数据规约实验 ",
+  "scenarios": [
+    {
+      "title": "实验一：数据质量分析实验",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验一：数据质量分析实验",
+          "text": "scenarios/实验一：数据质量分析实验.md"
+        }
+      ]
+    },
+    {
+      "title": "实验二：数据特征分析实验",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验二：数据特征分析实验",
+          "text": "scenarios/实验二：数据特征分析实验.md"
+        }
+      ]
+    },
+    {
+      "title": "实验三：统计特征函数实验",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验三：统计特征函数实验",
+          "text": "scenarios/实验三：统计特征函数实验.md"
+        }
+      ]
+    },
+    {
+      "title": "实验四：统计作图函数实验",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验四：统计作图函数实验",
+          "text": "scenarios/实验四：统计作图函数实验.md"
+        }
+      ]
+    },
+    {
+      "title": "实验五：数据清洗实验",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验五：数据清洗实验",
+          "text": "scenarios/实验五：数据清洗实验.md"
+        }
+      ]
+    },
+    {
+      "title": "实验六：数据集成实验",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验六：数据集成实验",
+          "text": "scenarios/实验六：数据集成实验.md"
+        }
+      ]
+    },
+    {
+      "title": "实验七：数据变换实验",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验七：数据变换实验",
+          "text": "scenarios/实验七：数据变换实验.md"
+        }
+      ]
+    },
+    {
+      "title": "实验八：数据规约实验",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验八：数据规约实验",
+          "text": "scenarios/实验八：数据规约实验.md"
+        }
+      ]
+    }
+  ]
+}
