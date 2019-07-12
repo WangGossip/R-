@@ -11,6 +11,7 @@
         {
           "preload": "scripts/pre.sh",
           "title": "实验一：数据质量分析实验",
+          "program": "scripts/program.sh",
           "text": "scenarios/实验一：数据质量分析实验.md"
         }
       ]
@@ -22,6 +23,7 @@
         {
           "preload": "scripts/pre.sh",
           "title": "实验二：数据特征分析实验",
+          "program": "scripts/program.sh",
           "text": "scenarios/实验二：数据特征分析实验.md"
         }
       ]
@@ -32,6 +34,7 @@
       "steps": [
         {
           "preload": "scripts/pre.sh",
+          "program": "scripts/program.sh",
           "title": "实验三：统计特征函数实验",
           "text": "scenarios/实验三：统计特征函数实验.md"
         }
@@ -43,6 +46,7 @@
       "steps": [
         {
           "preload": "scripts/pre.sh",
+          "program": "scripts/program.sh",
           "title": "实验四：统计作图函数实验",
           "text": "scenarios/实验四：统计作图函数实验.md"
         }
@@ -54,6 +58,7 @@
       "steps": [
         {
           "preload": "scripts/pre.sh",
+          "program": "scripts/program.sh",
           "title": "实验五：数据清洗实验",
           "text": "scenarios/实验五：数据清洗实验.md"
         }
@@ -65,6 +70,7 @@
       "steps": [
         {
           "preload": "scripts/pre.sh",
+          "program": "scripts/program.sh",
           "title": "实验六：数据集成实验",
           "text": "scenarios/实验六：数据集成实验.md"
         }
@@ -76,6 +82,7 @@
       "steps": [
         {
           "preload": "scripts/pre.sh",
+          "program": "scripts/program.sh",
           "title": "实验七：数据变换实验",
           "text": "scenarios/实验七：数据变换实验.md"
         }
@@ -87,6 +94,7 @@
       "steps": [
         {
           "preload": "scripts/pre.sh",
+          "program": "scripts/program.sh",
           "title": "实验八：数据规约实验",
           "text": "scenarios/实验八：数据规约实验.md"
         }
