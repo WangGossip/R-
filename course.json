@@ -7,6 +7,7 @@
     {
       "title": "实验一：数据质量分析实验",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
         {
           "extraTab": "[domain]:[:5678]/desktop.html",
@@ -19,6 +20,7 @@
     {
       "title": "实验二：数据特征分析实验",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
         {
           "extraTab": "[domain]:[:5678]/desktop.html",
@@ -31,6 +33,7 @@
     {
       "title": "实验三：统计特征函数实验",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
         {
           "extraTab": "[domain]:[:5678]/desktop.html",
@@ -43,6 +46,7 @@
     {
       "title": "实验四：统计作图函数实验",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
         {
           "extraTab": "[domain]:[:5678]/desktop.html",
@@ -55,6 +59,7 @@
     {
       "title": "实验五：数据清洗实验",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
         {
           "extraTab": "[domain]:[:5678]/desktop.html",
@@ -67,6 +72,7 @@
     {
       "title": "实验六：数据集成实验",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
         {
           "extraTab": "[domain]:[:5678]/desktop.html",
@@ -79,6 +85,7 @@
     {
       "title": "实验七：数据变换实验",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
         {
           "extraTab": "[domain]:[:5678]/desktop.html",
@@ -91,6 +98,7 @@
     {
       "title": "实验八：数据规约实验",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
         {
           "extraTab": "[domain]:[:5678]/desktop.html",
